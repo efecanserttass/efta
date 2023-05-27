@@ -1,6 +1,5 @@
 <div align="center">
 <h1> :wave: Hi, I’m @efecanserttass </h1>
-  
 <h1> 🟢 About </h1>
   <p>  My name is Efe </p>
   <p>  I am Bot Developer & Web Site Developer </p>
